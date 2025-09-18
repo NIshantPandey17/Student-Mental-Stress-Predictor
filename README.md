@@ -30,7 +30,7 @@ A machine learning–powered Streamlit web app that helps students assess their 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/face-recognition-app.git
+git clone https://github.com/your-username/Student Mental Health Detector.git
 cd face-recognition-app
 ```
 2️⃣ Install dependencies
